@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('/fonts/FiraSans-Regular.ttf') format('truetype');
+    font-style: normal;
+  }
+  body {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 15px;
+  }
